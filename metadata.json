@@ -18,7 +18,7 @@
     },
     {
       "name": "richardc/datacat",
-      "version_requirement": ">=0.4.x"
+      "version_requirement": ">=0.6.1"
     },
     {
       "name": "garethr/erlang",
