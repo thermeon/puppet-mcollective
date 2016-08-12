@@ -14,7 +14,7 @@
   "dependencies": [
     {
       "name": "puppetlabs/activemq",
-      "version_requirement": ">=0.2.x"
+      "version_requirement": ">=0.3.1"
     },
     {
       "name": "richardc/datacat",
